@@ -21,16 +21,6 @@ You can click the Preview link to take a look at your changes.
 <!-- 깃허브 readme.md 파일의 시작 -->
 
 <h1 align="center">surferwithus</h1>
-<p align="center">
-  <i>Your project's catchy tagline</i>
-  <br>
-  <a href="https://github.com/surferwithus/pnu-ppp"><strong>Explore the docs »</strong></a>
-  <br>
-  <br>
-  <a href="https://github.com/surferwithus/pnu-ppp/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/surferwithus/pnu-ppp/issues">Request Feature</a>
-</p>
 
 <p align="center">
   <a href="https://github.com/surferwithus/pnu-ppp">
@@ -52,6 +42,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## 👀 About me
+<p align="center>
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272)](https://solved.ac/dbsdud3272)
   </br>
   <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm"/>
@@ -59,6 +50,7 @@ You can click the Preview link to take a look at your changes.
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical)
   </br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surferwithus&layout=compact)](https://github.com/delay-100/github-readme-stats)
+</p>
 
 ## 📋 Table of Contents
 
