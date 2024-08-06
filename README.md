@@ -13,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272)](https://solved.ac/dbsdud3272)
 <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surferwithus&layout=compact)](https://github.com/delay-100/github-readme-stats)
