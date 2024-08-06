@@ -19,9 +19,6 @@ You can click the Preview link to take a look at your changes.
 -->
 
 <!-- 깃허브 readme.md 파일의 시작 -->
-<p align="center">
-  <img src="[https://i.namu.wiki/i/kIiKpZGwNW7DnO61Xd7KuGZyYLtIONPf_yb8SZeoogB_qTSvdAoo6XcnHDNKKbbH99wKnqdDYzJyh47KKF9KIw.svg]" alt="Logo" width="200" height="200">
-</p>
 
 <h1 align="center">surferwithus</h1>
 <p align="center">
@@ -56,8 +53,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 👀 About me
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272)](https://solved.ac/dbsdud3272)
+  </br>
   <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm"/>
+  </br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical)
+  </br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surferwithus&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 ## 📋 Table of Contents
