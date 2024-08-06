@@ -23,29 +23,29 @@ You can click the Preview link to take a look at your changes.
   <img src="[https://i.namu.wiki/i/kIiKpZGwNW7DnO61Xd7KuGZyYLtIONPf_yb8SZeoogB_qTSvdAoo6XcnHDNKKbbH99wKnqdDYzJyh47KKF9KIw.svg]" alt="Logo" width="200" height="200">
 </p>
 
-<h1 align="center">Your Project Name</h1>
+<h1 align="center">surferwithus</h1>
 <p align="center">
   <i>Your project's catchy tagline</i>
   <br>
-  <a href="https://github.com/yourusername/yourprojectname"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/surferwithus/pnu-ppp"><strong>Explore the docs »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/yourusername/yourprojectname/issues">Report Bug</a>
+  <a href="https://github.com/surferwithus/pnu-ppp/issues">Report Bug</a>
   ·
-  <a href="https://github.com/yourusername/yourprojectname/issues">Request Feature</a>
+  <a href="https://github.com/surferwithus/pnu-ppp/issues">Request Feature</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/surferwithus/yourprojectname">
+  <a href="https://github.com/surferwithus/pnu-ppp">
     <img src="https://img.shields.io/github/stars/yourusername/yourprojectname?style=social" alt="Stars Badge">
   </a>
-  <a href="https://github.com/surferwithus/yourprojectname/network/members">
+  <a href="https://github.com/surferwithus/pnu-ppp/network/members">
     <img src="https://img.shields.io/github/forks/yourusername/yourprojectname?style=social" alt="Forks Badge">
   </a>
-  <a href="https://github.com/surferwithus/yourprojectname/issues">
+  <a href="https://github.com/surferwithus/pnu-ppp/issues">
     <img src="https://img.shields.io/github/issues/yourusername/yourprojectname" alt="Issues Badge">
   </a>
-  <a href="https://github.com/surferwithus/yourprojectname/pulls">
+  <a href="https://github.com/surferwithus/pnu-ppp/pulls">
     <img src="https://img.shields.io/github/issues-pr/yourusername/yourprojectname" alt="Pull Requests Badge">
   </a>
 </p>
@@ -54,35 +54,20 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surferwithus&theme=github" alt="GitHub Profile Summary Card">
 </p>
 
+## 👀 About me
+<p align="center">
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272)](https://solved.ac/dbsdud3272)
+  <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surferwithus&layout=compact)](https://github.com/delay-100/github-readme-stats)
+</p>
+
 ## 📋 Table of Contents
 
-- [About the Project](#about-the-project)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 ## 📚 About The Project
 
 
 ### Built With
 
-- [Next.js](https://nextjs.org/)
-- [React.js](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
 
-## 🚀 Getting Started
-
-시작하기 위한 간단한 지침을 작성합니다.
-
-### Prerequisites
-
-- npm
-  ```sh
-  npm install npm@latest -g
