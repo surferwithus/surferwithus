@@ -36,22 +36,22 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/yourprojectname">
+  <a href="https://github.com/surferwithus/yourprojectname">
     <img src="https://img.shields.io/github/stars/yourusername/yourprojectname?style=social" alt="Stars Badge">
   </a>
-  <a href="https://github.com/yourusername/yourprojectname/network/members">
+  <a href="https://github.com/surferwithus/yourprojectname/network/members">
     <img src="https://img.shields.io/github/forks/yourusername/yourprojectname?style=social" alt="Forks Badge">
   </a>
-  <a href="https://github.com/yourusername/yourprojectname/issues">
+  <a href="https://github.com/surferwithus/yourprojectname/issues">
     <img src="https://img.shields.io/github/issues/yourusername/yourprojectname" alt="Issues Badge">
   </a>
-  <a href="https://github.com/yourusername/yourprojectname/pulls">
+  <a href="https://github.com/surferwithus/yourprojectname/pulls">
     <img src="https://img.shields.io/github/issues-pr/yourusername/yourprojectname" alt="Pull Requests Badge">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github" alt="GitHub Profile Summary Card">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surferwithus&theme=github" alt="GitHub Profile Summary Card">
 </p>
 
 ## 📋 Table of Contents
@@ -70,9 +70,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 📚 About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-여기에 프로젝트의 간략한 소개를 작성합니다. 당신의 프로젝트가 어떤 문제를 해결하는지, 왜 특별한지, 그리고 주요 기능이 무엇인지 설명합니다.
 
 ### Built With
 
