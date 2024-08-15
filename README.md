@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surferwithus.
 - 👀 I’m interested in listening calm music.
 - 🌱 I’m currently learning C++, Java.
-- 📫 How to reach me instagram @codlaxxc or [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=surferwithus)](https://velog.io/@eungyeole)  
+- 📫 How to reach me instagram @codlaxxc or [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=surferwithus)](https://velog.io/@surferwithus)  
 - ⚡ Fun fact: I'm majoring in computer science engineering, but I DON'T LIKE CODING!!!!
 <!---
 surferwithus/surferwithus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,7 +49,9 @@ You can click the Preview link to take a look at your changes.
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical)
   </br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surferwithus&layout=compact)](https://github.com/delay-100/github-readme-stats)
-
+  </br>
+  ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=surferwithus)
+  
 ## 📋 Table of Contents
 
 
