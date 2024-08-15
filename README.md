@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surferwithus&layout=compact)](https://github.com/delay-100/github-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=surferwith
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=surfer
 us)](([https://velog.io/@surferwithus]))
 -->
 
@@ -52,7 +52,7 @@ us)](([https://velog.io/@surferwithus]))
   </br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surferwithus&layout=compact)](https://github.com/delay-100/github-readme-stats)
   </br>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=surferwithus)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=surfer)](https://github.com/eungyeole/velog-readme-stats)
 
 ## 📋 Table of Contents
 
