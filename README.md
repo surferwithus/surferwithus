@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surferwithus.
 - 👀 I’m interested in listening calm music.
 - 🌱 I’m currently learning C++, Java.
-- 📫 How to reach me instagram @codlaxxc.
+- 📫 How to reach me instagram @codlaxxc or [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=surferwithus)](https://velog.io/@eungyeole)  
 - ⚡ Fun fact: I'm majoring in computer science engineering, but I DON'T LIKE CODING!!!!
 <!---
 surferwithus/surferwithus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,14 +37,11 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=surferwithus)](https://velog.io/@eungyeole) 
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surferwithus&theme=github" alt="GitHub Profile Summary Card">
 </p>
 
 ## 👀 About me
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=surferwithus)](https://github.com/eungyeole/velog-readme-stats)
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272)](https://solved.ac/dbsdud3272)
   </br>
   <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm"/>
