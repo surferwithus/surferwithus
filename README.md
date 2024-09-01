@@ -50,8 +50,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surferwithus&layout=compact" alt="Top Languages"/>
 </p>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surferwithus&layout=compact" alt="Top Languages"/> -->
 
 ## 📚 About The Recent Project
 
