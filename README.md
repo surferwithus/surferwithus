@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @surferwithus.
 - 👀 I’m interested in listening calm music.
 - 🌱 I’m currently learning C++, Java.
-- 📫 How to reach me <a href="https://instagram.com/orezvun">
+- 📫 How to reach me [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=surferwithus)](https://velog.io/@surferwithus) or <a href="https://instagram.com/orezvun">
     <img 
         src="http://img.shields.io/badge/-orezvun-black?style=flat&logo=instagram&link=https://instagram.com/orezvun/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> or [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=surferwithus)](https://velog.io/@surferwithus)  
+</a>   
 - ⚡ Department club : **keeper**
 
 <!--
