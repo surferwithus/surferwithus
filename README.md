@@ -48,7 +48,7 @@
 ## 📚 About The Recent Project
 
 ### 💻 PNU-PPP
-This project is an app created for the convenience of Pusan National University students.
-Through this app, students can comfortably know department announcements, exrta curricular activities, and academic schedules by using notifications.
-And also, this app have restaurants informations around university and we can use the 'Pick a restaurant at random' functions.
-If you are a student at Pusan National University, I think it is a good app to use at least once.
+This project is an app created for the convenience of Pusan National University students. </br>
+Through this app, students can comfortably know department announcements, exrta curricular activities, and academic schedules by using notifications. </br>
+And also, this app have restaurants informations around university and we can use the 'Pick a restaurant at random' functions. </br>
+If you are a student at Pusan National University, I think it is a good app to use at least once. </br>
