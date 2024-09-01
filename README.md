@@ -41,6 +41,19 @@
   <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm" alt="Mazandi Profile"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surferwithus&theme=radical" alt="GitHub Streak" width="49%"/>
+</p>
+
+<p align="center">
+  <a href="https://solved.ac/dbsdud3272">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272" alt="Solved.ac Profile" width="49%">
+  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm" alt="Mazandi Profile" width="49%"/>
+</p>
+
+
 ## 📚 About The Recent Project
 ### 💻 PNU-PPP
 <p align="center">
