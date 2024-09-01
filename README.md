@@ -30,20 +30,15 @@
 
 ## 👀 About me
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surferwithus&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
   <a href="https://solved.ac/dbsdud3272">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272" alt="Solved.ac Profile">
   </a>
   <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm" alt="Mazandi Profile"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surferwithus&theme=radical" alt="GitHub Streak"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=surferwithus&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
-
-<p align="center">
-  
 </p>
 
 ## 📚 About The Recent Project
