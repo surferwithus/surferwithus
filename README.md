@@ -7,11 +7,10 @@
   ⚡ Department club : <strong>keeper</strong><br>
   🌍 Curious minds who've dropped by <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsurferwithus&count_bg=%23507EDE&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits Badge"/>
-  </a>
+  </a> <br>
   📫 How to reach me 
   <a href="https://velog.io/@surferwithus">
-    <img src="https://velog-readme-stats.vercel.app/api/badge?name=surferwithus" alt="Velog's GitHub stats"/>
-  </a> or 
+    <img src="https://velog-readme-stats.vercel.app/api/badge?name=surferwithus" alt="Velog's GitHub stats"/> </a> or 
   <a href="https://instagram.com/orezvun">
     <img 
       src="http://img.shields.io/badge/-orezvun-black?style=flat&logo=instagram&link=https://instagram.com/orezvun/"
