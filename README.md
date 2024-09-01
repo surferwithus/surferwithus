@@ -4,7 +4,6 @@
   👋 Hi, I’m @surferwithus.<br>
   👀 I’m interested in listening calm music.<br>
   🌱 I’m currently learning C++, Java.<br>
-<!--  ⚡ Department club : <strong>keeper</strong><br> -->
   🌍 Curious minds who've dropped by 
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsurferwithus&count_bg=%23507EDE&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits Badge"/>
@@ -21,11 +20,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surferwithus&theme=monokai" alt="GitHub Trophy" />
+  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=surferwithus&theme=flat)
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surferwithus&theme=github" alt="GitHub Profile Summary Card">
+  ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surferwithus&theme=github)
 </p>
 
 ## 👀 About me
@@ -37,12 +36,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surferwithus&theme=radical" alt="GitHub Streak"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=vue)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surferwithus&theme=vue)
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=surferwithus&theme=react-dark" alt="GitHub Activity Graph"/>
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surferwithus&theme=github-light)
 </p>
 
 ## 📚 About The Recent Project
