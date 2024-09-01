@@ -37,9 +37,9 @@
 
 <p align="center">
   <a href="https://solved.ac/dbsdud3272">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272" alt="Solved.ac Profile" width="47%">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272" alt="Solved.ac Profile" width="47.4%">
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm" alt="Mazandi Profile" width="47%"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm" alt="Mazandi Profile" width="47.4%"/>
 </p>
 
 
