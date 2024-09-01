@@ -37,14 +37,12 @@
 
 ## 👀 About me
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272)](https://solved.ac/dbsdud3272)
-  </br>
   <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm"/>
   </br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical)
   </br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surferwithus&layout=compact)](https://github.com/delay-100/github-readme-stats)
   </br>
-  ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=surferwithus)
 
 
 ## 📚 About The Recent Project
