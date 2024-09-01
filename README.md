@@ -8,8 +8,7 @@
   📫 How to reach me 
   <a href="https://velog.io/@surferwithus">
     <img src="https://velog-readme-stats.vercel.app/api/badge?name=surferwithus" alt="Velog's GitHub stats"/>
-  </a> 
-  or 
+  </a> or 
   <a href="https://instagram.com/orezvun">
     <img 
       src="http://img.shields.io/badge/-orezvun-black?style=flat&logo=instagram&link=https://instagram.com/orezvun/"
@@ -24,6 +23,8 @@
   </a>
 </p>
 
+<!-- 
+
 <p align="center">
   <a href="https://github.com/surferwithus/pnu-ppp">
     <img src="https://img.shields.io/github/stars/surferwithus/pnu-ppp?style=social" alt="Stars Badge">
@@ -35,6 +36,8 @@
     <img src="https://img.shields.io/github/issues/surferwithus/pnu-ppp" alt="Issues Badge">
   </a>
 </p>
+
+-->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surferwithus&theme=github" alt="GitHub Profile Summary Card">
