@@ -1,4 +1,4 @@
-<h1 align="center">🌟🌊surferwithus🌊🌟</h1>
+<h1 align="center">🌊🌟surferwithus🌟🌊</h1>
 
 <p align="center">
   👋 Hi, I’m @surferwithus.<br>
