@@ -4,7 +4,7 @@
   👋 Hi, I’m @surferwithus.<br>
   👀 I’m interested in listening calm music.<br>
   🌱 I’m currently learning C++, Java.<br>
-  ⚡ Department club : <strong>keeper</strong><br>
+<!--  ⚡ Department club : <strong>keeper</strong><br> -->
   🌍 Curious minds who've dropped by 
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsurferwithus&count_bg=%23507EDE&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits Badge"/>
@@ -46,10 +46,11 @@
 </p>
 
 ## 📚 About The Recent Project
-
+<p align="center">
 ### 💻 PNU-PPP
 This project is an app created for the convenience of Pusan National University students. </br>
 Through this app, students can comfortably know department announcements, extra curricular activities, and academic schedules by using notifications. </br>
 And also, this app have restaurants information around university and we can use the 'Pick a restaurant at random' functions. </br>
 </br>
 If you are a student at Pusan National University, I think it is a good app to use at least once. </br>
+</p>
