@@ -6,7 +6,7 @@
         src="http://img.shields.io/badge/-orezvun-black?style=flat&logo=instagram&link=https://instagram.com/orezvun/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> or [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=surferwithus)](https://velog.io/@surferwithus)  
-- ⚡ Fun fact: I'm majoring in computer science engineering, but I DON'T LIKE CODING!!!!
+- ⚡ Department club : **keeper**
 <!---
 surferwithus/surferwithus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
