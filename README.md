@@ -44,7 +44,8 @@
 
 
 ## 📚 About The Recent Project
-### 💻 PNU-PPP
+<h3 align="center">💻 PNU-PPP</h3>
+
 <p align="center">
 This project is an app created for the convenience of Pusan National University students. </br>
 Through this app, students can comfortably know department announcements, extra curricular activities, and academic schedules by using notifications. </br>
