@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning C++, Java.
 - 📫 How to reach me <a href="https://instagram.com/orezvun">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=orezvun&link=https://instagram.com/orezvun/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&link=https://instagram.com/orezvun/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> or [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=surferwithus)](https://velog.io/@surferwithus)  
+</a>
+or [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=surferwithus)](https://velog.io/@surferwithus)  
 - ⚡ Fun fact: I'm majoring in computer science engineering, but I DON'T LIKE CODING!!!!
 <!---
 surferwithus/surferwithus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
