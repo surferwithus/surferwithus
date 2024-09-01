@@ -20,9 +20,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surferwithus&theme=monokai" alt="GitHub Trophy" />
-</p>
 
 ## 👀 About me
 
@@ -32,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surferwithus&theme=github" alt="GitHub Profile Summary Card" width="94%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surferwithus&theme=github" alt="GitHub Profile Summary Card" width="95%">
 </p>
 
 <p align="center">
@@ -41,6 +38,9 @@
   </a>
   <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm" alt="Mazandi Profile" width="47.4%"/>
 </p>
+
+</br>
+</br>
 
 
 ## 📚 About The Recent Project
