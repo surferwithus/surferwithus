@@ -36,7 +36,7 @@
   <a href="https://solved.ac/dbsdud3272">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272" alt="Solved.ac Profile">
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm" alt="Mazandi Profile" width="47.4%"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=dbsdud3272&theme=warm" alt="Mazandi Profile"/>
 </p>
 
 </br>
