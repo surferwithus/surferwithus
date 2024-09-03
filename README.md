@@ -51,5 +51,5 @@ This project is an app created for the convenience of Pusan National University 
 Through this app, students can comfortably know department announcements, extra curricular activities, and academic schedules by using notifications. </br>
 And also, this app have restaurants information around university and we can use the 'Pick a restaurant at random' functions. </br>
 </br>
-If you are a student at Pusan National University, I think it is a good app to use at least once. </br>
+If you are a Pusan National University student, Try this app! </br>
 </p>
