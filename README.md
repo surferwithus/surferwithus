@@ -1,4 +1,7 @@
-<h1 style="background-color:navy; color:white; text-align:center;">🌊🌟surferwithus🌟🌊</h1>
+<h1 style="text-align:center;">
+    <span style="background-color:navy; color:white;">🌊🌟surferwithus🌟🌊</span>
+</h1>
+
 
 <p align="center">
   👋 Hi, I’m @surferwithus.<br>
