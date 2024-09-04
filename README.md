@@ -1,5 +1,5 @@
-<h1 align="center">
-    <span style="background-color:blue; color:white;">🌊🌟surferwithus🌟🌊</span>
+<h1 style="background-color:blue; color:white; text-align:center;">
+    🌊🌟surferwithus🌟🌊
 </h1>
 
 
