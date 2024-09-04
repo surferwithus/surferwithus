@@ -1,4 +1,4 @@
-<h1 style="background-color:blue; color:white; text-align:center;">
+<h1 align="center">
     🌊🌟surferwithus🌟🌊
 </h1>
 
