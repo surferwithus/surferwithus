@@ -1,4 +1,4 @@
-<h1 align="center";">
+<h1 align="center">
     <span style="background-color:navy; color:white;">🌊🌟surferwithus🌟🌊</span>
 </h1>
 
@@ -23,10 +23,11 @@
   </a>
 </p>
 
-
-## 👀 About me
-
+<h2 align="center">
+   👀 About me
+</h2>
 <p align="center">
+    **Baekjoon**
   <a href="https://solved.ac/dbsdud3272">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsdud3272" alt="Solved.ac Profile">
   </a>
@@ -34,10 +35,12 @@
 </p>
 
 <p align="center">
+    **Github Profile Card**
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surferwithus&theme=github" alt="GitHub Profile Summary Card">
 </p>
 
 <p align="center">
+    **readme stats**
   <img src="https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surferwithus&theme=radical" alt="GitHub Streak"/>
 </p>
@@ -45,8 +48,9 @@
 </br>
 </br>
 
-
-## 📚 About The Recent Project
+<h2 align="center">
+   📚 About The Recent Project
+</h2>
 <h3 align="center">💻 PNU-PPP</h3>
 
 <p align="center">
