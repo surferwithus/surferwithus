@@ -44,7 +44,7 @@
 </p>
 
 <h3 align="center">
-    Readme Stats
+    Github Stats
 </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surferwithus&show_icons=true&theme=radical" alt="GitHub Stats"/>
