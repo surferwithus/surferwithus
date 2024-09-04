@@ -5,7 +5,7 @@
 
 <p align="center">
   👋 Hi, I’m @surferwithus.<br>
-  ⚡ I belong to KEEPER; PNU CSE security club.<br>
+  ⚡ I belong to KEEPER; _pnu cse security club_.<br>
   🌱 I’m currently learning C++, Java.<br>
 <!--  ⚡ Department club : <strong>keeper</strong><br> -->
   🌍 Curious minds who've dropped by 
