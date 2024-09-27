@@ -5,7 +5,7 @@
 
 <p align="center">
   👋 Hi, I’m Yun-yeong Kim.<br>
-  ⚡ I belong to KEEPER; pnu cse security club.<br>
+  ⚡ I'm studying CSE in Pusan Nat'l Univ.<br>
   🌱 I’m currently learning C++, Java.<br>
 <!--  ⚡ Department club : <strong>keeper</strong><br> -->
   🌍 Curious minds who've dropped by 
