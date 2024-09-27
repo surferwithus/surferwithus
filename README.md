@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  👋 Hi, I’m @surferwithus.<br>
+  👋 Hi, I’m Yun-yeong Kim.<br>
   ⚡ I belong to KEEPER; pnu cse security club.<br>
   🌱 I’m currently learning C++, Java.<br>
 <!--  ⚡ Department club : <strong>keeper</strong><br> -->
